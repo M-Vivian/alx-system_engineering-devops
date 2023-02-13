@@ -12,3 +12,4 @@
 11-directories_permissions - Script that adds permisssions to all subdirectories in the working directory for everyone
 12-directory_permissions - Script that creates a directory with permissions 751
 13-change_group - Script that changes group owner
+100-change_owner_and_group - Script changes the owner and group owner for all files and directories
