@@ -5,7 +5,7 @@
 4-empty -  script that creates an empty file called hello
 5-execute - Script that adds execute permission to the owner of the file
 6-multiple_permissions - Script adds execute permission to the owner and ther group owner read permission for other users
-7-everybody - Scrips adds execute permissions to owner.group owner and other users
+7-everybody - Script adds execute permissions to owner.group owner and other users
 8-James_Bond - Script sets permissions; owner none, groups none and other users all
 9-John_Doe - Scripts that sets the mode of the file
 10-mirror_permissions - Script that copies the mode of a file from anotheer file
@@ -14,3 +14,4 @@
 13-change_group - Script that changes group owner
 100-change_owner_and_group - Script changes the owner and group owner for all files and directories
 101-symbolic_link_permissions - Dhange the owner of two files to one owner
+102-if_only - Script changes owner of a file if only owned by another owner
