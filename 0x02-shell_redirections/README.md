@@ -14,3 +14,4 @@
 13-unique - Script that takes a lsit of words as inputs and prints only the ones that appear once
 14-findthatword - Display lines containing root in /etc/passwd
 15-countthatword - Display the number of lines contain in the pattern bin
+16-whatsnext - Display 3 line after the pattern root
