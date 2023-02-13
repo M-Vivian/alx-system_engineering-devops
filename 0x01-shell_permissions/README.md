@@ -5,3 +5,4 @@
 4-empty -  script that creates an empty file called hello
 5-execute - Script that adds execute permission to the owner of the file
 6-multiple_permissions - Script adds execute permission to the owner and ther group owner read permission for other users
+7-everybody - Scrips adds execute permissions to owner.group owner and other users
