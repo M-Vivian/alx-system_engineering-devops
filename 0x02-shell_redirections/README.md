@@ -19,3 +19,4 @@
 18-letteronly - Display all lines starting with a letter
 19-AZ - Replace characters Ac with Ze
 20-hiago - Script that removes all letters cC
+21-reverse - Script that reverse its input
