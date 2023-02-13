@@ -11,3 +11,4 @@
 10-mirror_permissions - Script that copies the mode of a file from anotheer file
 11-directories_permissions - Script that adds permisssions to all subdirectories in the working directory for everyone
 12-directory_permissions - Script that creates a directory with permissions 751
+13-change_group - Script that changes group owner
