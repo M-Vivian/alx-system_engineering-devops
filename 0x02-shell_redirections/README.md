@@ -8,3 +8,4 @@
 7-file - Script that creates a non empty file
 8-cwd_state - Script writing the results of the comaand ls -la into ls_cwd_content
 9-duplicate_last_line - Script that duplicates the last line of a file
+10-no_more_js - Script that deletes all regular files apart from .js in the current directory and all its subdirectories
