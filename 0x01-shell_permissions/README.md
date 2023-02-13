@@ -8,3 +8,4 @@
 7-everybody - Scrips adds execute permissions to owner.group owner and other users
 8-James_Bond - Script sets permissions; owner none, groups none and other users all
 9-John_Doe - Scripts that sets the mode of the file
+10-mirror_permissions - Script that copies the mode of a file from anotheer file
