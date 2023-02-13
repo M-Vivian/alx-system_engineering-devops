@@ -18,3 +18,4 @@
 17-hidethisword - Display all lines that do not contain the pattern bin
 18-letteronly - Display all lines starting with a letter
 19-AZ - Replace characters Ac with Ze
+20-hiago - Script that removes all letters cC
