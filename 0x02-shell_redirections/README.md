@@ -6,3 +6,4 @@
 5-firstlines - Script that displays the first 10 lines of /etc/passwd
 6-third_line - Script that displays the first 3 lines of a file
 7-file - Script that creates a non empty file
+8-cwd_state - Script writing the results of the comaand ls -la into ls_cwd_content
