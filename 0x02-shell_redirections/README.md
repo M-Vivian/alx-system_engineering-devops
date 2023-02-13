@@ -20,4 +20,5 @@
 19-AZ - Replace characters Ac with Ze
 20-hiago - Script that removes all letters cC
 21-reverse - Script that reverse its input
-22-users_and_homes - Script that sidplays all ussers and their home directories sorted by users
+22-users_and_homes - Script that sidplays all ussers and their home directories sorted by user
+100-empty_casks - Command that finds all empty files  and directory in the current working directory
